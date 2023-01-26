@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+}
+h1 {
+    font-size: 50px;
+    line-height: 140%;
+    margin: 0;
+}
+.play {
+    font-size: 18px;
+    line-height: 136.7%;
+    margin: 30px 0px;
+}
+.btn {
+    background: #FF6861;
+    border-radius: 100px;
+    color: #FFFFFF;
+    padding: 22px 70px;
+    text-decoration: none;
+    font-style: 18px;
+    font-weight: 700;
+    display: block;
+    width: 219px;
+}
+.wayup1 {
+    width: 465px;
+}
+.cow {
+    width: 465px;
+    margin-left: 180px;
+}
+.one {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 80px;
+}
